@@ -1,0 +1,12 @@
+[server]
+headless = true
+
+[theme]
+primaryColor = "#4CAF50"
+
+[runner]
+magicEnabled = true
+
+[python]
+# Important path fix
+pythonPath = "E:/payroll_management_system"
