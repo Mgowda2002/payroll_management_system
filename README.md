@@ -17,11 +17,6 @@ A desktop-based Payroll Management System developed using **Python** and **Tkint
 
 ---
 
-## 📷 Screenshots
-
-*(Add screenshots here if available)*
-
----
 
 ## 🔧 Tech Stack
 
@@ -78,17 +73,4 @@ Manoj Kumar B (Mgowda2002)
 📧 mgowda110101@gmail.com
 🌐 GitHub Profile
 
-yaml
-Copy
-Edit
 
----
-
-### ✅ After adding:
-1. Save the `README.md` in your project folder.
-2. Run this in VS Code terminal to commit and push:
-
-```bash
-git add README.md
-git commit -m "Added project README"
-git push
